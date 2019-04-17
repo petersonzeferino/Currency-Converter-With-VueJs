@@ -1,29 +1,30 @@
-# conversor
+# Conversor de moedas com Vue JS
 
-## Project setup
-```
-npm install
-```
+## 1. Objetivo
+Converter moedas com a cotação do momento utilizando Vue JS
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 2. A solução
+Com base na moeda Real (BRL) é possível obter o valor corresponde em Dólar Americano (USD), Dólar Canadense (CAD) e Euro (EUR) e vice-versa.
+Para efetuar a conversão é utilizado o The Free Currency Converter (https://free.currencyconverterapi.com) que é uma API que obtém a cotação com base no código da moeda.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 3. Pré Requisitos
+É necessário ter o NodeJS instalado
 
-### Run your tests
-```
-npm run test
-```
+## 4. Execução
+Com o ambiente do NodeJS instalado, basta iniciar a aplicação com o comando **npm run start**
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Currency converter with Vue JS
+
+## 1. Purpose
+Convert currencies with the current quote using Vue JS
+
+## 2. The solution
+Based on the Real currency (BRL) you can get the value in US Dollars (USD), Canadian Dollar (CAD) and Euro (EUR) and vice versa.
+The Free Currency Converter *(https://free.currencyconverterapi.com)* is used to make the conversion, which is an API that obtains the quotation based on the currency code.
+
+## 3. Prerequisites
+You must have NodeJS installed
+
+## 4. Execution
+With the NodeJS environment installed, just start the application with the command **npm run serve**
