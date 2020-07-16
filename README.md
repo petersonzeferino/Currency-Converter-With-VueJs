@@ -28,3 +28,5 @@ You must have NodeJS installed
 
 ## 4. Execution
 With the NodeJS environment installed, just start the application with the command **npm run serve**
+
+[![HitCount](http://hits.dwyl.com/petersonzeferino/Currency-Converter-With-VueJs.svg)](http://hits.dwyl.com/petersonzeferino/Currency-Converter-With-VueJs)
